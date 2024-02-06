@@ -1,4 +1,4 @@
-### Hi I'm Gabriel Arthur, mas pode me chams de Garth 👋
+### Hi I'm Gabriel Arthur, mas pode me chamar de Garth 👋
 ------
 - 🌱 Estou atualmente atprendendo Python,Django e MongoDB 
 - 👯 Estou procurando trabalhando com grandes projetos 
