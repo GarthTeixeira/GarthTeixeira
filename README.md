@@ -1,6 +1,6 @@
 ### Hi I'm Gabriel Arthur, mas pode me chamar de Garth 👋
 ------
-- 🌱 Estou atualmente atprendendo Python,Django e MongoDB 
+- 🌱 Estou atualmente atprendendo Python,Flask, RxJs e MongoDB 
 - 👯 Estou procurando trabalhando com grandes projetos 
 - 💬 Me pergunte sobre qualquer coisa 
 - 📫 Contatos: garthur1998@gmail.com
