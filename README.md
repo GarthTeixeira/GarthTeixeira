@@ -1,7 +1,7 @@
 ### Hi I'm Gabriel Arthur, mas pode me chamar de Garth 👋
 ------
 - 🌱 Estou atualmente atprendendo Python,Flask, RxJs e MongoDB 
-- 👯 Estou procurando trabalhando com grandes projetos 
+- 👯 Estou procurando trabalhando com Crawling
 - 💬 Me pergunte sobre qualquer coisa 
 - 📫 Contatos: garthur1998@gmail.com
 - 😄 Pronouns: ele/dele
