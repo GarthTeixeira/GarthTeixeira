@@ -7,9 +7,9 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Ainda não possuo uma camiseta de desenvolvedor1 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GArthTex66&theme=nightowl&show_icons=true&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarthTeixeira&theme=nightowl&show_icons=true&rank_icon=github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GArthTex66&layout=donut&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarthTeixeira&layout=donut&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ------
 ### Com o que eu já brinquei 🤖
@@ -41,7 +41,7 @@
   <img src="http://pin.anime.com/wp-content/uploads/2015/09/5-Centimeters-Per-Second-%E7%A7%92%E9%80%9F5%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB-animated-GIF-.gif">
 </div>
 <!--
-**GArthTex66/GArthTex66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GarthTeixeira/GarthTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
