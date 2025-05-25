@@ -5,7 +5,9 @@
 - 💬 Me pergunte sobre qualquer coisa 
 - 📫 Contatos: garthur1998@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Ainda não possuo uma camiseta de desenvolvedor1 
+- ⚡ Fun fact: Ainda não possuo uma camiseta de desenvolvedor1
+
+[![GitHub Streak](https://github-readme-streak-stats-chi-seven.vercel.app?user=GarthTeixeira&theme=dracula)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarthTeixeira&theme=nightowl&show_icons=true&rank_icon=github)
 
