@@ -1,7 +1,10 @@
 ### Hi I'm Gabriel Arthur, mas pode me chamar de Garth 👋
 ------
 - 🌱 Estou atualmente aprendendo Python (Flask), Typescript (Next.js) e MongoDB!
+- 🐧 Somelier de distros de Linux
 - 👯 Estou procurando trabalho como dev (front-end/full-stack/crawling/back-end)
+- 🌉 Assunto que me interessam vão de arquiteturas de sistemas até de sistemas operacionais
+- 🧮 Fato curioso: ja dei aulas de matemática, é algo que gosto muito
 - 💬 Me pergunte sobre qualquer coisa 
 - 📫 Contatos: garthur1998@gmail.com
 - 😄 Pronouns: ele/dele
