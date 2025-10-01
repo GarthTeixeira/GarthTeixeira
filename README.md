@@ -1,4 +1,4 @@
-### Hi I'm Gabriel Arthur, mas pode me chamar de Garth 👋
+### Oi eu sou o Gabriel Arthur, mas pode me chamar de Garth 👋
 ------
 - 🌱 Estou atualmente aprendendo Python (Flask), Typescript (Next.js) e MongoDB!
 - 🐧 Somelier de distros de Linux
@@ -7,12 +7,7 @@
 - 🧮 Fato curioso: ja dei aulas de matemática, é algo que gosto muito
 - 💬 Me pergunte sobre qualquer coisa 
 - 📫 Contatos: garthur1998@gmail.com
-- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Ainda não possuo uma camiseta de desenvolvedor
-
-[![GitHub Streak](https://github-readme-streak-stats-chi-seven.vercel.app?user=GarthTeixeira&theme=dracula)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarthTeixeira&theme=nightowl&show_icons=true&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarthTeixeira&layout=donut&theme=nightowl&exclude_repo=light-house-project-DC)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -49,9 +44,7 @@
 </div>
 <!--
 **GarthTeixeira/GarthTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
