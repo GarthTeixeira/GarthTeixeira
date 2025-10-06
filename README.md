@@ -39,15 +39,6 @@ Experienced in designing and implementing **APIs and system achitectures**, **da
   <img align="center" alt="Garth-Flask" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" style="max-width: 100%;">
 </div><br>
 
-**Web stacks**
-<div dir="auto"><br>
-  <img align="center" alt="Garth-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Garth-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="max-width: 100%;"/>
-  <img align="center" alt="Garth-Next.js" height="30" width="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" style="max-width: 100%;">
-  <img align="center" alt="Garth-Flask" height="30" width="40" src="https://img.icons8.com/fluent/512/flask.png" style="max-width: 100%;">
-  <img align="center" alt="Garth-Nest" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" style="max-width: 100%;">
-</div><br>
-
 **Web Tools and Others**
 <div dir="auto"><br>
   <img align="center" alt="Garth-Docker" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Docker.svg" style="max-width: 100%;"/>
